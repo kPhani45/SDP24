@@ -10,7 +10,7 @@ function Contact() {
         autoComplete="off"
         id="contact_form"
         className="contact_form"
-        action="https://formsubmit.co/praneethvarma144@gmail.com"
+        action="https://formsubmit.co/phani@gmail.com"
         method="POST"
       >
         <label htmlFor="person_name">Name *</label>
