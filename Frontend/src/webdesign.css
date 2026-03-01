@@ -1,0 +1,23 @@
+
+.web-design {
+    background-image: url('/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 16px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+  }
+  
